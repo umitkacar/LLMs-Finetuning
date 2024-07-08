@@ -2,6 +2,8 @@
 
 - https://github.com/microsoft/graphrag
 - https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
+- [RankRAG: Unifying Context Ranking with
+Retrieval-Augmented Generation in LLMs](https://arxiv.org/pdf/2407.02485)
  
 - https://github.com/ollama/ollama  (ollama run mistral)
 - https://www.youtube.com/watch?v=Wqf2GimAlWo
