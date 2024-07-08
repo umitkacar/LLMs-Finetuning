@@ -1,4 +1,7 @@
 # LLMs-Finetuning
+
+- https://github.com/microsoft/graphrag
+- https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
  
 - https://github.com/ollama/ollama  (ollama run mistral)
 - https://www.youtube.com/watch?v=Wqf2GimAlWo
