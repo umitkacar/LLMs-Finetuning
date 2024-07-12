@@ -1,5 +1,11 @@
 # LLMs-Finetuning
 
+- https://groq.com/
+- https://console.groq.com/playground
+- https://github.com/nomic-ai/gpt4all
+- https://github.com/ollama/ollama
+
+## RAG
 - https://github.com/microsoft/graphrag
 - https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
 - [RankRAG: Unifying Context Ranking with
