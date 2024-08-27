@@ -5,8 +5,10 @@
 - https://github.com/nomic-ai/gpt4all
 - https://github.com/ollama/ollama
 
-## RAGAS
+## RAGAS
+
 - https://github.com/explodinggradients/ragas
+- https://www.linkedin.com/posts/tom-yeh_rags-ragas-aibyhand-activity-7233463866356027392-qLi_?utm_source=share&utm_medium=member_desktop
 
 ## RAG
 - https://github.com/microsoft/graphrag
